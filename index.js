@@ -1,1 +1,1 @@
-require('./lib/greeter');
+npm require('./lib/greeter');
